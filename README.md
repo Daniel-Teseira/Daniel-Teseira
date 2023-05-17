@@ -1,4 +1,6 @@
-### Hola 👋, mi nombre es Daniel
+### Hola 👋, mi nombre es Daniel!!
+#### Tengo 25 años, soy de San Miguel de Tucumán-Tucumán-Argentina
+
 #### Soy estudiante de FullStack WEB y FullStack JAVA
 Actualmente me encuentro cursando Ingenieria en Sistemas de Información UNT-FRT, FullStack WEB en Rolling Code School, FullStack JAVA en Argetina Programa y tambien buscando mi primer trabajo IT.
 

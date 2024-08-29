@@ -71,7 +71,7 @@ Aquí tienes un resumen de mi actividad en GitHub:
 
 ## 📫 Cómo Contactarme
 
-Si te gustaría hablar sobre oportunidades laborales o proyectos interesantes, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/daniel-teseira/) o [Twitter](https://twitter.com/DanielTeseira).
+Si te gustaría hablar sobre oportunidades laborales o proyectos interesantes, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/daniel-teseira/)
 
 ---
 
